@@ -1,4 +1,4 @@
-##Wwlcome to Cognifyz
+##Welcome to Cognifyz
 
 *This repository contains my internship projects, which consists of two levels:
 
